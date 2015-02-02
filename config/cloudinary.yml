@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: recipe
+  api_key: '927315984887243'
+  api_secret: 4b8rmN13Zg-HQk8OYdKGQkdk368
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: recipe
+  api_key: '927315984887243'
+  api_secret: 4b8rmN13Zg-HQk8OYdKGQkdk368
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: recipe
+  api_key: '927315984887243'
+  api_secret: 4b8rmN13Zg-HQk8OYdKGQkdk368
+  enhance_image_tag: true
+  static_image_support: false
